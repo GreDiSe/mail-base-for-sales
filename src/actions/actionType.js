@@ -1,0 +1,4 @@
+export const
+    CREATE_USER = 'CREATE_POST',
+    DELETE_USER = 'DELETE_USER',
+    EDIT_USER = 'EDIT_USER';
